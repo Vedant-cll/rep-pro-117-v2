@@ -1,0 +1,19 @@
+body{
+background-color: lightgreen;
+}
+
+#span1{
+    font-size: 30px;
+    margin-left: 1000;
+
+}
+
+#span2{
+    font-size: 30px;
+float: right;
+margin-right: 1499;
+}
+
+#label-1{
+    color:red;
+}
